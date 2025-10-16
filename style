@@ -1,1 +1,9 @@
-
+body{font-family:system-ui,sans-serif;margin:2rem auto;max-width:800px;line-height:1.45}
+input{width:100%;padding:.5rem;margin:.5rem 0}
+ul{list-style:none;padding:0}
+li{margin:.7rem 0;padding:.7rem;background:#f7f7f7;border-radius:4px}
+a{text-decoration:none;color:#0066cc}
+@media(prefers-color-scheme:dark){
+  body{background:#121212;color:#eee}
+  li{background:#1e1e1e}
+}
