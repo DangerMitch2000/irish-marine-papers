@@ -2,7 +2,7 @@
 
 An open, auto-updating catalogue of peer-reviewed Irish marine research.
 
-| **Live demo** | https://YOURUSERNAME.github.io/irish-marine-papers/ |
+| **Live demo** | https://DangerMitch2000.github.io/irish-marine-papers/ |
 |---------------|-----------------------------------------------------|
 
 ## How to contribute
